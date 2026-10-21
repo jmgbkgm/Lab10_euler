@@ -1,4 +1,4 @@
-# Проект: Сложение векторов в N-мерном пространстве
+# Project : Vector addition in n-dimensional space
 
 ## ENG
 
